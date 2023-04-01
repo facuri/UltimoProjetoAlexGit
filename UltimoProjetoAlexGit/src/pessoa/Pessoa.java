@@ -9,6 +9,7 @@ public class Pessoa {
 	private String telefone;
 	private String imagem;
 	private String desenho;
+	private int idade;
 
 	public String getNome() {
 		return nome;
