@@ -7,6 +7,8 @@ public class Pessoa {
 	private String outroNome;
 	private String dataNascimento;
 	private String telefone;
+	private String imagem;
+	private String desenho;
 
 	public String getNome() {
 		return nome;
